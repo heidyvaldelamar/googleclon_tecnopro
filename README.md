@@ -12,7 +12,7 @@ Contiene los siguientes elementos:
 
 ## ¿qué tecnologías utilicé?
 
-![Logo]([https://logowik.com/content/uploads/images/css3-html51661.jpg](https://img-c.udemycdn.com/course/750x422/814594_15eb_4.jpg))
+![Logo]([https://img-c.udemycdn.com/course/750x422/814594_15eb_4.jpg])
 
 ## Mi objetivo
 Aprender a utilizar los lenguajes y las etiquetas principales de CSS Y HTML.
