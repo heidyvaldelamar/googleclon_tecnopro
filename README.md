@@ -18,6 +18,8 @@ Contiene los siguientes elementos:
 Aprender a utilizar los lenguajes y las etiquetas principales de CSS Y HTML.
 
 ## Mira aquí mi proyecto: 
+![Captura](captura_clon_tecno.png)
+
 [Clonación de Google](https://heidyvaldelamar.github.io/googleclon_tecnopro/)
 
 
