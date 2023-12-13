@@ -1,4 +1,4 @@
-# Clon de el navegador de Google
+# Clon del buscador de Google
 Proyecto del bootcamp de Tecnolochicas Pro.
 
 ## ¿Qué proyecto he creado?
