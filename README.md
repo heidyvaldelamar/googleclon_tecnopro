@@ -1,7 +1,7 @@
 # Clon de el navegador de Google
 Proyecto del bootcamp de Tecnolochicas Pro.
 
-## ¿Qué construí?
+## ¿Qué proyecto he creado?
 
 En este proyecto tuve como proposito contruir la clonacion de la interfaz del navegador de Google.
 Contiene los siguientes elementos:
@@ -10,7 +10,7 @@ Contiene los siguientes elementos:
 * Main
 * Footer 
 
-## ¿qué tecnologías utilicé?
+## ¿Qué tecnologías utilicé?
 
 ![Logo](https://img-c.udemycdn.com/course/750x422/814594_15eb_4.jpg)
 
